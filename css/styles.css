@@ -1,0 +1,69 @@
+#bodyIndex{
+    background-image: url(https://images7.alphacoders.com/108/thumb-1920-1081933.jpg);
+    width: 80%;
+}
+
+
+/* TITULOS*/
+h1{
+    color: white;
+    font-family: 'Grechen Fuemen', cursive;
+
+    transition: color .5s;
+}
+
+  
+
+h2{
+    color: white;
+    font-family: 'Grechen Fuemen', cursive;
+    transition: color .5s;
+}
+
+
+p{
+    color: white;
+    transition: color .5s;
+}
+
+h3{
+    font-family: 'Grechen Fuemen', cursive;
+    height: 60px;
+    width: 200px;
+    vertical-align: text-bottom;
+    transition: color .5s;
+    
+}
+
+/* DIV */
+div{
+    margin-bottom: 20px;
+    
+}
+
+#divDolar{
+    margin-left: 100px;
+}
+
+
+/* HOVER */
+h1:hover {
+    
+    color: rgb(69, 187, 207);
+   
+  }
+  h2:hover {
+    
+    color: rgb(69, 187, 207);
+   
+  }
+  h3:hover {
+    
+    color: rgb(69, 187, 207);
+   
+  } 
+  p:hover {
+    
+    color: rgb(69, 187, 207);
+   
+  }
